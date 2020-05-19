@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StorageManager": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Resources/SampleData.txt\""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿testId1 (total 12)
+materialId1: 12
+
+testId3 (total 7)
+materialId3: 7
+
+testId2 (total 5)
+materialId2: 5
+
